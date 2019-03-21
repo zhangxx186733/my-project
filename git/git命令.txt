@@ -4,6 +4,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/zhangxx186733/my-project.git
 git push -u origin master
+然后输入用户名密码
 
 git remote add origin https://github.com/zhangxx186733/my-project.git
 git push -u origin master
